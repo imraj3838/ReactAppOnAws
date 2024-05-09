@@ -1,4 +1,6 @@
 import React from 'react';
+const React = require('react');
+
 import { BrowserRouter as Router, Route, Link, Routes } from 'react-router-dom';
 import SignUp from './SignUp';
 import Login from './Login';
